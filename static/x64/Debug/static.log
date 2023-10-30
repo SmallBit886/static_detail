@@ -1,0 +1,4 @@
+﻿  test.c
+G:\C_Text\static\static\test.c(56,17): warning C4013: “Add”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 Add，函数 main 中引用了该符号
+G:\C_Text\static\x64\Debug\static.exe : fatal error LNK1120: 1 个无法解析的外部命令
